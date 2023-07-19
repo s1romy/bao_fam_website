@@ -1,0 +1,14 @@
+.home-page {
+  .piczone {
+    .pic-container {
+      img {
+        opacity: 0.7;
+
+        &:hover {
+          opacity: 1;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
